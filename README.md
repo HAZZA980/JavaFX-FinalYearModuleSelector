@@ -36,6 +36,16 @@ View
     - ModulePanes
     - OverviewPane
 
+Features
+
+    Profile Creation: Students can create profiles with relevant personal information.
+    Module Selection: Users can choose modules they wish to study during their final year.
+    Output Generation: The tool generates an output that displays the selected modules and other relevant information.
+    Settings: Customize the program's theme (light/dark), add more modules, and include additional courses.
+    Validation: Ensures that all data entered, including student email and dates, is accurate and complete.
+    Exit Confirmation: Prevents accidental program closure and prompts the user for confirmation.
+
+
 Releases
 Version 1.0.2
 
